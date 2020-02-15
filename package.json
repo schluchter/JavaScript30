@@ -1,0 +1,22 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "Learning JavaScript one exercise at a time",
+  "main": "index.js",
+  "scripts": {
+		"server": "browser-sync start --server --watch --directory --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesbos/JavaScript30.git"
+  },
+  "author": "Thomas Schluchter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesbos/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/wesbos/JavaScript30#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
